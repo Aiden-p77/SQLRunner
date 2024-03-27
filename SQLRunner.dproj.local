@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/05 14:28:28.000.096,=C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/19 16:20:34.000.100,=C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/27 10:36:56.000.134,=C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/27 11:17:15.000.103,=C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:07:54.000.740,=C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/27 10:08:33.000.093,C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programming\Delphi_Windows\SQLRunner\uMain.dfm</Transaction>
+    <Transaction>2024/01/27 10:08:33.000.093,C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Programming\Delphi_Windows\SQLRunner\uMain.pas</Transaction>
+    <Transaction>2024/01/27 10:08:38.000.730,C:\Users\Aiden\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Programming\Delphi_Windows\SQLRunner\SQLRunner.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
